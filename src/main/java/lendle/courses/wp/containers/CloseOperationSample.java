@@ -66,7 +66,7 @@ public class CloseOperationSample extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
-        new NewJDialog((Frame)null).setVisible(true);
+        new NewJDialog((Frame)null, true).setVisible(true);
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
